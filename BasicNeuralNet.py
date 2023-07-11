@@ -70,4 +70,4 @@ if __name__ == "__main__":
     newData = Tensor([[1,1,1]])
     print(neural_network.think(newData).numpy())
 
-print("test")
+print("test2")
